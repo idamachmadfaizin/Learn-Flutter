@@ -7,24 +7,25 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: Text('Row & Col')),
-        body: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: <Widget>[
-            Text('Text 1'),
-            Text('Text 2'),
-            Text('Text 3'),
-            Row(
-              children: <Widget>[
-                Text('Text 4'),
-                Text('Text 5'),
-                Text('Text 6'),
-              ],
-            )
-          ],
-        ),
-      ),
+          appBar: AppBar(title: Text('Container')),
+          body: Container(
+            color: Colors.red,
+            margin: EdgeInsets.all(10),
+            padding: EdgeInsets.only(bottom: 20, top: 10),
+            child: Container(
+							margin: EdgeInsets.all(10),
+              decoration: BoxDecoration(
+                  borderRadius: BorderRadius.circular(10),
+                  gradient: LinearGradient(
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
+                      colors: <Color>[
+                        Colors.amber,
+                        Colors.blue,
+                      ]),
+                  color: Colors.blue),
+            ),
+          )),
     );
   }
 }
