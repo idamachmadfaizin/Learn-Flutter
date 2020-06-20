@@ -8,46 +8,32 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  int _counter = 0;
-  void _incrementCounter() {
-    setState(() {
-      _counter++;
-    });
-  }
-
-  void _dicrementCounter() {
-    setState(() {
-      _counter--;
-    });
-  }
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Stateful Widget'),
+          leading: Icon(Icons.home),
+          title: Text('App Bar Title'),
+          backgroundColor: Colors.red[700],
         ),
-        body: Center(
+        body: Container(
+          margin: EdgeInsets.all(10),
           child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              Text(
-                '$_counter',
-                style: TextStyle(fontSize: 10 + _counter.toDouble()),
-              ),
               Row(
-                mainAxisAlignment: MainAxisAlignment.spaceAround,
                 children: <Widget>[
-                  IconButton(
-                      icon: Icon(Icons.add),
-                      onPressed: _incrementCounter,
-                      color: Colors.redAccent),
-                  RaisedButton.icon(
-                      onPressed: _dicrementCounter,
-                      icon: Icon(Icons.remove),
-                      label: Text('Remove'))
+                  Icon(Icons.archive),
+                  Text('Artikel Terbaru'),
                 ],
+              ),
+              Card(
+                child: Column(
+                  children: <Widget>[
+                    Image.network('https://flutter.io/images/homepage/header-illustration.png'),
+                    Text('Belajar Flutter Card')
+                  ],
+                ),
               )
             ],
           ),
