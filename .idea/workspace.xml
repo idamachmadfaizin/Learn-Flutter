@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2eccb4b4-dc86-4170-b7ba-fe9f1d021922" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tabs/home.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tabs/news.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tabs/popular.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dH538KREpE94tcYsh8TvVPP4Fh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2eccb4b4-dc86-4170-b7ba-fe9f1d021922" name="Default Changelist" comment="" />
+      <created>1592068976661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592068976661</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Hello world">
+      <created>1592114943698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592114943698</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello world" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello world" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="136" y="57" key="#Intentions" timestamp="1592115245225">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="136" y="57" key="#Intentions/0.30.1366.738/-2160.-67.2160.1050@0.30.1366.738" timestamp="1592115245225" />
+    <state x="0" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592726262053">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="0" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738@0.30.1366.738" timestamp="1592726262053" />
+    <state x="199" y="30" key="CommitChangelistDialog2" timestamp="1592114941512">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="199" y="30" key="CommitChangelistDialog2/0.30.1366.738/-2160.-67.2160.1050@0.30.1366.738" timestamp="1592114941512" />
+    <state width="1030" height="225" key="GridCell.Tab.0.bottom" timestamp="1592728067917">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1045" height="130" key="GridCell.Tab.0.bottom/0.30.1366.738/-2160.-67.2160.1050@0.30.1366.738" timestamp="1592115346277" />
+    <state width="1030" height="225" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1592728067917" />
+    <state width="1030" height="225" key="GridCell.Tab.0.center" timestamp="1592728067916">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1045" height="130" key="GridCell.Tab.0.center/0.30.1366.738/-2160.-67.2160.1050@0.30.1366.738" timestamp="1592115346277" />
+    <state width="1030" height="225" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1592728067916" />
+    <state width="1030" height="225" key="GridCell.Tab.0.left" timestamp="1592728067916">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1045" height="130" key="GridCell.Tab.0.left/0.30.1366.738/-2160.-67.2160.1050@0.30.1366.738" timestamp="1592115346276" />
+    <state width="1030" height="225" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1592728067916" />
+    <state width="1030" height="225" key="GridCell.Tab.0.right" timestamp="1592728067916">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1045" height="130" key="GridCell.Tab.0.right/0.30.1366.738/-2160.-67.2160.1050@0.30.1366.738" timestamp="1592115346277" />
+    <state width="1030" height="225" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1592728067916" />
+    <state x="184" y="41" key="SettingsEditor" timestamp="1592727409000">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="184" y="41" key="SettingsEditor/0.30.1366.738/-2160.-67.2160.1050@0.30.1366.738" timestamp="1592114533149" />
+    <state x="184" y="41" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1592727409000" />
+    <state x="92" y="122" width="1182" height="554" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1592727430847">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="92" y="122" width="1182" height="554" key="com.android.tools.idea.avdmanager.AvdListDialog/0.30.1366.738/-2160.-67.2160.1050@0.30.1366.738" timestamp="1592114544892" />
+    <state x="92" y="122" width="1182" height="554" key="com.android.tools.idea.avdmanager.AvdListDialog/0.30.1366.738@0.30.1366.738" timestamp="1592727430847" />
+    <state x="379" y="223" key="com.intellij.ide.util.TipDialog" timestamp="1592723765842">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="379" y="223" key="com.intellij.ide.util.TipDialog/0.30.1366.738/-1024.-68.1024.738@0.30.1366.738" timestamp="1592114002036" />
+    <state x="379" y="223" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1592723765842" />
+    <state x="759" y="30" width="607" height="738" key="find.popup" timestamp="1592115080409">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="759" y="30" width="607" height="738" key="find.popup/0.30.1366.738/-2160.-67.2160.1050@0.30.1366.738" timestamp="1592115080409" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1592725353517">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.30.1366.738@0.30.1366.738" timestamp="1592725353517" />
+  </component>
+</project>
