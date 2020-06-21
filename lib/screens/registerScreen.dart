@@ -6,7 +6,7 @@ class RegisterScreen extends StatefulWidget {
   _RegisterScreenState createState() => _RegisterScreenState();
 }
 
-class _RegisterScreenState extends State<RegisterScreen> with Validation {
+class _RegisterScreenState extends State<RegisterScreen> {
   // Global key validation
   final formKey = GlobalKey<FormState>();
 
@@ -33,7 +33,7 @@ class _RegisterScreenState extends State<RegisterScreen> with Validation {
   }
 
   Widget nameField() => TextFormField(
-        validator: nameValidate,
+        validator: Validation().nameValidate,
         onSaved: (String value) {
           name = value;
         },
@@ -42,7 +42,7 @@ class _RegisterScreenState extends State<RegisterScreen> with Validation {
 
   Widget emailField() => TextFormField(
         keyboardType: TextInputType.emailAddress,
-        validator: emailValidate,
+        validator: Validation().emailValidate,
         onSaved: (String value) {
           email = value;
         },
@@ -52,7 +52,7 @@ class _RegisterScreenState extends State<RegisterScreen> with Validation {
 
   Widget passwordField() => TextFormField(
         obscureText: true,
-        validator: passwordValidate,
+        validator: Validation().passwordValidate,
         onSaved: (String value) {
           password = value;
         },
